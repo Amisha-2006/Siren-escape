@@ -9,9 +9,9 @@ Siren Escape is a fast-paced, single-player 2D game where you control a siren, j
 
 ⚡ Difficulty: As time progresses, the game gets harder with faster obstacles and more obstacles to avoid.
 
-🎨 Visual Style: Stunning underwater world 🌊 with glowing sea creatures 🐚, bioluminescent plants 🌱, and a graceful, fluid siren character.
+🎨 Visual Style: Stunning underwater world 🌊 with glowing sea creatures 🐚, and a graceful, fluid siren character.
 
-🎶 Sound & Music: Calming underwater ambiance 🎵 that intensifies as difficulty rises. Sound effects for jumping, collisions, and power-ups 💥.
+🎶 Sound & Music: Calming underwater ambiance 🎵 that intensifies as difficulty rises. Sound effects for jumping, collisions etc.
 
 👤 Single Player: Designed for solo play, focusing on one player's ability to survive.
 
