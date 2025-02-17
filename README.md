@@ -1,7 +1,7 @@
 Siren-escape
 Siren Escape is a fast-paced, single-player 2D game where you control a siren, jumping to avoid obstacles and survive as long as possible.🎮 GAME OVERVIEW
 
-⚙️ Core Mechanics: The main action is jumping to avoid obstacles (e.g., rocks 🪸, sea creatures 🐙) in a fast-paced, survival environment.
+⚙️ Core Mechanics: The main action is jumping to avoid obstacles in a fast-paced, survival environment.
 
 ⌨️ Controls: Press the spacebar to make the siren jump. Simple keyboard controls, no other inputs needed.
 
